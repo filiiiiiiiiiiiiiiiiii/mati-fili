@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="u)V.9%WeVWiH|?UvIH7T">sprite</variable></variables><block type="pxt-on-start" id="XamhY}cplZmL_`x)*Wte" x="0" y="0"></block><block type="device_forever" id="PiA-,ZhUHoN$=GCe7|=h" x="297" y="13"><statement name="HANDLER"><block type="basic_show_icon" id="n3RZ{uK+5IE?VvCp+4h+"><field name="i">IconNames.Happy</field><next><block type="device_show_leds" id="@IjcxDE4[mNd2y;9SAAw"><field name="LEDS">`
+        . . . . . 
+        . # . . . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></statement></block></xml>
